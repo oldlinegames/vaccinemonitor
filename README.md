@@ -33,5 +33,5 @@ Once you have your executable, you can run it and follow the command line instru
 If you don't know how to set up a Discord webhook, follow the instructions [here](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks) to get your webhook link.
 Webhooks are not required, as the monitor will log any detected appointments to the console as well, but it is more convenient for receiving push notifications.
 This is what a webhook will look like:
-[](webhook.png)
+[webhook](./webhook.png)
 
