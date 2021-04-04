@@ -21,7 +21,7 @@ Go (I have 1.16 but it will likely work with older versions)
 ## Usage
 
 ### Building yourself
-Clone the repository and compile into an executable by typing `go build`. 
+Clone the repository and compile into an executable by typing `go build .`. 
 
 ### Using the precompiled binaries
 Just clone this repository and run vaccinemonitor for your respective OS.
